@@ -1,0 +1,6 @@
+With Git, we cannot push an empty folder.
+
+We have created the folder architecture with empty folders.
+To be able to push the folder architecture , we have add an text file to every empty folders to be able to push it.
+
+This file can be deleted safely if the containing folder has other files.
